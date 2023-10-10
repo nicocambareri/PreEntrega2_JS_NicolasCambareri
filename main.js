@@ -3,7 +3,7 @@
 alert("¡Bienvenido a la Carpintería, aquí podrás seleccionar los productos que quieras y agregarlos a tu carrito!");
 
 // Listado de Productos
-let productos = [
+const productos = [
     {id: 1, nombre: 'Recorte de madera x m2', precio: 1000},
     {id: 2, nombre: 'Correderas', precio: 350},
     {id: 3, nombre: 'Tapa Cantos', precio: 150},
